@@ -1,3 +1,16 @@
+#firstPythonwork内容：
+#采用相关的字符串打印方法，打印下图的内容，整个字符串宽度为40。请独立完成该实验。输出结果如下：
+#请输入表格宽度：40
+#========================================
+#Fruits                             Price
+#----------------------------------------
+# apple                                9.4
+# pear                                 5.5
+# tomato                               1.9
+# mango                               10.5
+# watermelon                           6.2
+# Hami melon                           5.6
+# ========================================
 items_menu = {'apple': 9.4, 'pear': 5.5, 'tomato': 1.9, 'mango': 10.5, 'watermelon': 6.2, 'Hami melon': 5.6}
 while True:
     forms_length = input("请输入表格宽度：")
