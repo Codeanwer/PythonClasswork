@@ -11,6 +11,7 @@
 # watermelon                           6.2
 # Hami melon                           5.6
 # ========================================
+#具体代码如下：
 items_menu = {'apple': 9.4, 'pear': 5.5, 'tomato': 1.9, 'mango': 10.5, 'watermelon': 6.2, 'Hami melon': 5.6}
 while True:
     forms_length = input("请输入表格宽度：")
